@@ -22,11 +22,11 @@ El código está estructurado en TIA Portal de la siguiente manera:
 El control y monitoreo del proceso se realiza a través de 2 pantallas principales operadas localmente.
 
 ### Pantalla Principal (Operación)
-![Pantalla Principal](./Imagenes/nombre_de_tu_captura_principal.png)
+![Pantalla Principal](./Imagenes/Pantalla principal.jpeg)
 *Monitoreo general de la producción, visualización de contadores de bolsas e indicadores del estado del ciclo (Automático/Manual).*
 
 ### Pantalla de Mantenimiento
-![Pantalla de Mantenimiento](./Imagenes/nombre_de_tu_captura_mantenimiento.png)
+![Pantalla de Mantenimiento](./Imagenes/Pantalla mantenimiento.jpeg)
 *Panel técnico para forzado de actuadores, gestión de tiempos neumáticos y reseteo de turnos o alarmas.*
 
 ---
