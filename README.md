@@ -31,7 +31,7 @@ El control y monitoreo del proceso se realiza a través de 2 pantallas principal
 
 ---
 
-## 📄 Diagramas LADDER (PDF)
+## Diagramas LADDER (PDF)
 
 Debido a que los archivos fuente están estructurados para el control de versiones, puedes visualizar los diagramas de contactos (LADDER) directamente en los siguientes documentos generados desde TIA Portal:
 
