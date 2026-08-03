@@ -35,9 +35,9 @@ El control y monitoreo del proceso se realiza a través de 2 pantallas principal
 
 Debido a que los archivos fuente están estructurados para el control de versiones, puedes visualizar los diagramas de contactos (LADDER) directamente en los siguientes documentos generados desde TIA Portal:
 
-*   [📘 Ver Diagrama OB1 - Main](./Documentacion/nombre_pdf_OB1.pdf)
-*   [📘 Ver Diagrama FC1 - Secuencia Automática](./Documentacion/nombre_pdf_FC1.pdf)
-*   [📘 Ver Diagrama FC2 - Control Manual](./Documentacion/nombre_pdf_FC2.pdf)
+*   [📘 Ver Diagrama OB1 - Main](./Archivos.XML/Main_OB1.pdf)
+*   [📘 Ver Diagrama FC1 - Secuencia Automática](./Archivos.XML/Secuencia_automatica_FC1.pdf)
+*   [📘 Ver Diagrama FC2 - Control Manual](./Archivos.XML/Secuencia_Control_nanual_FC2.pdf)
 
 ---
 
