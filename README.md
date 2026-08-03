@@ -37,7 +37,7 @@ Debido a que los archivos fuente están estructurados para el control de version
 
 *   [📘 Ver Diagrama OB1 - Main](./Imagenes/Main_OB1.pdf)
 *   [📘 Ver Diagrama FC1 - Secuencia Automática](./Imagenes/Secuencia_automatica_FC1.pdf)
-*   [📘 Ver Diagrama FC2 - Control Manual](./Imagenes/Control_nanual_FC2.pdf)
+*   [📘 Ver Diagrama FC2 - Control Manual](./Imagenes/Control_manual_FC2.pdf)
 
 ---
 
