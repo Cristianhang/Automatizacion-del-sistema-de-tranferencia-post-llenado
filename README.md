@@ -43,4 +43,4 @@ Debido a que los archivos fuente están estructurados para el control de version
 
 ## Archivos de Respaldo
 
-En el archivo `Proyecto automatizacion.zap20` se encuentra el archivo `.zap` que contiene la configuración completa del hardware (PLC S7-1200 + HMI TP1200 Comfort) y el proyecto original de TIA Portal para su restauración y ejecución en PLCSIM.
+En el archivo `Proyecto automatizacion.zap20` se encuentra el archivo `.zap` que contiene la configuración completa del hardware (PLC S7-1200 + HMI Panel KTP700 Basic PN) y el proyecto original de TIA Portal para su restauración y ejecución en PLCSIM.
