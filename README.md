@@ -17,7 +17,7 @@ El código está estructurado en TIA Portal de la siguiente manera:
 
 ---
 
-## Interfaz HMI (Panel TP1200 Comfort)
+## Interfaz HMI (Panel KTP700 Basic PN)
 
 El control y monitoreo del proceso se realiza a través de 2 pantallas principales operadas localmente.
 
